@@ -1,0 +1,42 @@
+body {
+  background-color: #BFD7EA;
+  color: #0B3954;
+  font-family: 'Monda', sans-serif;
+  margin: 40px 0px 20px 0;
+}
+
+h4 {
+  font-style: italic;
+  font-size: 13px;
+}
+
+.quoteField {
+  background-color: #FEFFFE;
+  width: 33%;
+  margin: 20px auto;
+  padding: 25px;
+  border: solid 1px;
+  border-radius: 15px;
+  height: auto;
+}
+
+.quoteSpan1 {
+  color: #0B3954;
+  font-size: 23px;
+}
+
+.quoteSpan2 {
+  color: #FF6663;
+  font-size: 13px;
+  font-style: italic;
+}
+
+.fa-lightbulb-o {
+  color: #F6FE9E;
+  opacity: 0.9;
+  text-shadow: 0px 0px 5px #FFFFFF;
+}
+
+.btn-primary {
+  border-radius: 15px;
+}
